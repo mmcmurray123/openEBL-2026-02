@@ -3,7 +3,7 @@
 
 - The Silicon Electronic Photonics Integrated Circuits (SiEPIC) fabrication program, <a href="https://siepic.ca/fabrication/">SiEPICfab</a>, presents the open electron beam lithography (EBL) fabrication process, where former and current students of <a href="https://siepic.ca/education/">SiEPIC</a> workshops and courses can submit their design for manufacturing and testing.
 - More details about <a href="https://siepic.ca/openEBL/">openEBL</a>.
-- **Submission deadline: February 14, 2026.**
+- **Submission deadline: 07:00 UTC February 14, 2026.**
 - The previous submission was in [October 2025](https://github.com/SiEPIC/openEBL-2025-10). You can look at previous designs for inspiration.
 
 # Fabrication process: Passive Silicon
@@ -91,5 +91,5 @@ Will be added here.
 
 Click on the following link to download the EBeam.oas merged layout file:
 <!-- start-link -->
-https://github.com/SiEPIC/openEBL-2026-02/actions/runs/21536536018/artifacts/5326361545
+https://github.com/SiEPIC/openEBL-2026-02/actions/runs/21769707326/artifacts/5413601066
 <!-- end-link -->
